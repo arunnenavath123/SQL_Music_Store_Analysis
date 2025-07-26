@@ -18,5 +18,3 @@ Through the application of SQL queries, this project aims to unravel valuable in
 ## Contributing
 Contributions to this project are welcome. If you have suggestions for improvements or find any issues, feel free to open a pull request or submit an issue in the repository.
 
-## References
-- https://www.youtube.com/watch?v=VFIuIjswMKM (source: www.youtube.com/@RishabhMishraOfficial)
