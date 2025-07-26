@@ -11,7 +11,7 @@ Through the application of SQL queries, this project aims to unravel valuable in
 - Schema: Music Store Database
 
 ## Usage
-- Clone the repository: https://github.com/madhumitagupt/Music-Store-Data-Analysis-Using-SQL.git
+- Clone the repository: https://github.com/arunnenavath123/SQL_Music_Store_Analysis
 - Import the dataset into your SQL database management system.
 - Run SQL queries located in the SQL_Music_Store_Project.sql file against the database to perform data analysis and generate insights.
 
